@@ -6,3 +6,7 @@ __pycache__/
 *.key
 *.secret
 .DS_Store
+*.crt
+02-entra-saml-sso/saml/certs/
+02-entra-saml-sso/saml/settings.json
+02-entra-saml-sso/saml/idp_metadata.xml
