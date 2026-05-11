@@ -6,3 +6,5 @@ __pycache__/
 *.key
 *.secret
 .DS_Store
+*.crt
+02-entra-saml-sso/saml/certs/
